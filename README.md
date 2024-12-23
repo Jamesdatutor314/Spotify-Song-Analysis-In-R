@@ -56,8 +56,11 @@ This project explores a Spotify dataset, analyzing song characteristics such as 
 
 # Tools and Libraries
 R: Data analysis and visualization.
+
 tidyverse: Data manipulation and cleaning.
+
 ggplot: Visualization.
+
 ggcorrplot: Correlation heatmap.
 
 # Future Work
