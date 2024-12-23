@@ -73,5 +73,5 @@ Machine Learning:
 Trend Analysis:
 - Compare feature trends across decades or genres.
 
-Conclusion
+# Conclusion
 This project demonstrates how EDA can uncover meaningful insights from music data. It highlights trends in audio features, relationships among variables, and factors influencing song popularity. The analysis can serve as a foundation for advanced modeling or recommendation systems in the music industry.
