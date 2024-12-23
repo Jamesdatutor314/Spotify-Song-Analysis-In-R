@@ -65,10 +65,13 @@ ggcorrplot: Correlation heatmap.
 
 # Future Work
 Feature Engineering:
-Create derived features such as beats_per_minute_category or danceability_category.
+- Create derived features such as beats_per_minute_category or danceability_category.
+
 Machine Learning:
-Predict popularity using audio features.
+- Predict popularity using audio features.
+
 Trend Analysis:
-Compare feature trends across decades or genres.
+- Compare feature trends across decades or genres.
+
 Conclusion
 This project demonstrates how EDA can uncover meaningful insights from music data. It highlights trends in audio features, relationships among variables, and factors influencing song popularity. The analysis can serve as a foundation for advanced modeling or recommendation systems in the music industry.
