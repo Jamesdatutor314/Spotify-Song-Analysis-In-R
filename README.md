@@ -39,12 +39,16 @@ This project explores a Spotify dataset, analyzing song characteristics such as 
 
 # Visualizations
 ## Distribution of Popularity
+![Screenshot Description](pic1.png)
 
 ## Danceability Distribution
+![Screenshot Description](pic2.png)
 
 ## Tempo Distribution
+![Screenshot Description](pic3.png)
 
 ## Correlation Heatmap
+![Screenshot Description](pic4.png)
 
 # Insights
 1. Popularity: Most songs have low popularity, with only a few scoring above 70.
